@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.a07cc93d.chunk.css",
-    "main.js": "/portfolio/static/js/main.2c39211c.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.2c39211c.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.fb1b3dac.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.fb1b3dac.js.map",
-    "static/js/2.79ad7898.chunk.js": "/portfolio/static/js/2.79ad7898.chunk.js",
-    "static/js/2.79ad7898.chunk.js.map": "/portfolio/static/js/2.79ad7898.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "precache-manifest.7b164b523174b67d6f4da9409fa2a3bb.js": "/portfolio/precache-manifest.7b164b523174b67d6f4da9409fa2a3bb.js",
-    "service-worker.js": "/portfolio/service-worker.js",
-    "static/css/main.a07cc93d.chunk.css.map": "/portfolio/static/css/main.a07cc93d.chunk.css.map",
-    "static/js/2.79ad7898.chunk.js.LICENSE.txt": "/portfolio/static/js/2.79ad7898.chunk.js.LICENSE.txt",
-    "static/media/appdemo1.gif": "/portfolio/static/media/appdemo1.342b0555.gif",
-    "static/media/appdemo2.gif": "/portfolio/static/media/appdemo2.e2ac6822.gif"
+    "main.css": "/static/css/main.a07cc93d.chunk.css",
+    "main.js": "/static/js/main.71fc06ff.chunk.js",
+    "main.js.map": "/static/js/main.71fc06ff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.e5fc83a6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.e5fc83a6.js.map",
+    "static/js/2.79ad7898.chunk.js": "/static/js/2.79ad7898.chunk.js",
+    "static/js/2.79ad7898.chunk.js.map": "/static/js/2.79ad7898.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b657718310cd9f5c13d148cb29c45de1.js": "/precache-manifest.b657718310cd9f5c13d148cb29c45de1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.a07cc93d.chunk.css.map": "/static/css/main.a07cc93d.chunk.css.map",
+    "static/js/2.79ad7898.chunk.js.LICENSE.txt": "/static/js/2.79ad7898.chunk.js.LICENSE.txt",
+    "static/media/appdemo1.gif": "/static/media/appdemo1.342b0555.gif",
+    "static/media/appdemo2.gif": "/static/media/appdemo2.e2ac6822.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb1b3dac.js",
+    "static/js/runtime-main.e5fc83a6.js",
     "static/js/2.79ad7898.chunk.js",
     "static/css/main.a07cc93d.chunk.css",
-    "static/js/main.2c39211c.chunk.js"
+    "static/js/main.71fc06ff.chunk.js"
   ]
 }

@@ -36,7 +36,7 @@ function setup() {
     ps = new ParticleSystem();
     ps2 = new ParticleSystem();
     bo = new Circle(50);
-    bo2 = new Circle(5);
+    bo2 = new Circle(50);
     cursor = new Cursor();
     moveLight = new MoveLight();
     window.addEventListener('getXY', (event) => {
